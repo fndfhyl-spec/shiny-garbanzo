@@ -1,0 +1,4 @@
+streamlit
+python-pptx
+PyPDF2
+python-docx
